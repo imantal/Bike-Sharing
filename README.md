@@ -34,7 +34,7 @@ This heatmap shows the number of bike trips broken down by gender for each day o
 
 The following additional graph would help understand the data better:
 * Trip during heat map for all riders and with breakdown based on gender
-*Trip during heatmap for subscribers versus customers 
+* Trip during heatmap for subscribers versus customers 
 
 
 
