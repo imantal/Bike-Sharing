@@ -33,8 +33,8 @@ This heatmap shows the number of bike trips broken down by gender for each day o
 * Subscribers use bike sharing more than customers.
 
 The following additional graph would help understand the data better:
-* Trip during heat map for all riders and with breakdown based on gender
-* Trip during heatmap for subscribers versus customers 
+* Trip duration heatmap for all riders and with breakdown based on gender
+* Trip duration heatmap for subscribers versus customers 
 
 
 
